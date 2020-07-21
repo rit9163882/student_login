@@ -1,0 +1,5 @@
+com\journaldev\spring\model\SqlWork.class
+com\journaldev\spring\model\StudentProfiles.class
+com\journaldev\spring\model\User.class
+com\journaldev\spring\controller\HomeController.class
+com\journaldev\spring\model\Stud.class
